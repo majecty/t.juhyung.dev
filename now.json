@@ -1,0 +1,10 @@
+{
+  "github": { "enabled": true },
+
+  "redirects": [
+    {
+      "source": "/200204-who-china",
+      "destination": "https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-technical-briefing-on-2019-novel-coronavirus"
+    }
+  ]
+}
